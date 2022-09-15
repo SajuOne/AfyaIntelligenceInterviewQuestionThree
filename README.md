@@ -1,0 +1,2 @@
+# AfyaIntelligenceInterviewQuestionThree
+AfyaIntelligence Interview Question Three
